@@ -1,1 +1,1 @@
-pwd
+Where am I?
