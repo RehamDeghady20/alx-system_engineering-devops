@@ -1,10 +1,1 @@
-<<<<<<< HEAD
- cat /etc/passwd/ /etc/host 
-=======
-#!/bin/bash
 cat /etc/passwd
-<<<<<<< HEAD
->>>>>>> c091414c6987ca5d1ec48a88091ef612dfcbd896
-=======
-
->>>>>>> 54d77380075396b696a8cf073505292b1f5022de
